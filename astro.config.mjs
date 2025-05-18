@@ -9,7 +9,7 @@ import mdx from "@astrojs/mdx";
 // https://astro.build/config
 export default defineConfig({
   // https://docs.astro.build/en/guides/images/#authorizing-remote-images
-  site: "https://github.com/braco96/rincondelosbravos.github.io",
+  site: "https://braco96.github.io/rincondelosbravos.github.io/",
   image: {
     domains: ["images.unsplash.com"],
   },
